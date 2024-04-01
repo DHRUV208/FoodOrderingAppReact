@@ -1,0 +1,1 @@
+developed a comprehensive food ordering application leveraging React.js for dynamic user interfaces, Redux for robust state management, Tailwind CSS for sleek component styling, and Parcel as the efficient bundler for seamless deployment.
